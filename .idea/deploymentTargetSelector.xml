@@ -4,7 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
+<<<<<<< HEAD
         <DialogSelection />
+=======
+>>>>>>> 05ce2580d61ac66b2b80482a0736705ea7633bc1
       </SelectionState>
     </selectionStates>
   </component>

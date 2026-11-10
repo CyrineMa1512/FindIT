@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.FindIt" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.FindITAPP" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 05ce2580d61ac66b2b80482a0736705ea7633bc1
 </resources>

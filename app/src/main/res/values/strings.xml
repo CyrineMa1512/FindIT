@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">FindIt</string>
+=======
+    <string name="app_name">FindITAPP</string>
+>>>>>>> 05ce2580d61ac66b2b80482a0736705ea7633bc1
 </resources>
