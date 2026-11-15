@@ -19,10 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
 rootProject.name = "FindIt"
-=======
-rootProject.name = "FindITAPP"
->>>>>>> 05ce2580d61ac66b2b80482a0736705ea7633bc1
 include(":app")
- 
