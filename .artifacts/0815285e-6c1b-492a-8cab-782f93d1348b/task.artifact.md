@@ -1,0 +1,7 @@
+- `[ ]` Step 1: Update `User.kt` data model
+- `[ ]` Step 2: Implement enhanced `AuthRepository.kt` with coroutines and Firebase Auth
+- `[ ]` Step 3: Implement `AuthViewModel.kt` with StateFlow and form validation
+- `[ ]` Step 4: Implement Jetpack Compose `LoginScreen.kt` and update `LoginActivity.kt`
+- `[ ]` Step 5: Implement Jetpack Compose `RegisterScreen.kt` and update `RegisterActivity.kt`
+- `[ ]` Step 6: Update `AndroidManifest.xml` launcher configuration
+- `[ ]` Step 7: Build verification and error checking

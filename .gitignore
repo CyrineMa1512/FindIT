@@ -1,59 +1,42 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
 # Gradle files
 .gradle/
 build/
-.kotlin/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
+# IDE files
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+.DS_Store
+*.iml
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
 # Keystore files
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
-=======
->>>>>>> 05ce2580d61ac66b2b80482a0736705ea7633bc1
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
+# External native build folder
 .externalNativeBuild
 .cxx
-local.properties
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
->>>>>>> 05ce2580d61ac66b2b80482a0736705ea7633bc1
